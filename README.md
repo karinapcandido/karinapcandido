@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @karinapcandido
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi👋 there !
+
+Welcome to my GitHub Profile !
+
+
+
+I’m Karina Candido, a Rocketseat student :rocket:
+
+currently studying HTML, CSS and JavaScript :exclamation:
 
 <!---
 karinapcandido/karinapcandido is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
